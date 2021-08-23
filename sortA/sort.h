@@ -15,3 +15,5 @@ void SelectionSort(int data[], int maxsize);
 void InsertionSort(int data[], int maxsize);
 
 void ShellSort(int data[], int maxsize);
+
+void QuickSort(int data[], int low, int high);
